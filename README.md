@@ -1,0 +1,1 @@
+I am going back and redoing part 1 of Javascript Fundamentals due to the break in learning.  So I'll be keeping my work on Github this time.
